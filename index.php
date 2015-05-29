@@ -17,5 +17,6 @@
 	  include('assets/php/Mobile_Detect.php');
 	  include('assetts/php/functions.php');
 
+print $plex_server_ip
 
 ?>
