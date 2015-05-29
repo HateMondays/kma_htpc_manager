@@ -13,7 +13,7 @@
 
 /*	Utilizing;
 /*	Mobile_Detect <https://github.com/serbanghita/Mobile-Detect>
-
+*/
 	  include('assets/php/Mobile_Detect.php');
 
 
