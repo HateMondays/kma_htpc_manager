@@ -1,6 +1,6 @@
 # KM@ HTPC Manager
 
-Author: Mark Lynch a.k.a. HateMondays <hatemondays@kmagaming.com>
+Author: Mark Lynch a.k.a. <a href="mailto:hatemondays@kmagaming.com">HateMondays</a>
 
 Designed to manage my personal HTPC Server Setup.<br />
 Including;<br />
